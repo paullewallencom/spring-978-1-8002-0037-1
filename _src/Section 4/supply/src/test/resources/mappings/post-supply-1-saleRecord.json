@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "POST",
+    "urlPattern": "/supply/1/purchase"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "json/supply-response-after-post.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}

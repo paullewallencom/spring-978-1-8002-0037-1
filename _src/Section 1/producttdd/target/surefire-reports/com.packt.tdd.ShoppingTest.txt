@@ -1,0 +1,20 @@
+-------------------------------------------------------------------------------
+Test set: com.packt.tdd.ShoppingTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 0.004 sec <<< FAILURE!
+com.packt.tdd.ShoppingTest.testItemsAddedToShoppingCart()  Time elapsed: 0.003 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.packt.tdd.ShoppingTest.testItemsAddedToShoppingCart(ShoppingTest.java:28)
+
+com.packt.tdd.ShoppingTest.testShoppingCartAmount()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.packt.tdd.ShoppingTest.testShoppingCartAmount(ShoppingTest.java:36)
+
+com.packt.tdd.ShoppingTest.testDueAmountCalculation()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.packt.tdd.ShoppingTest.testDueAmountCalculation(ShoppingTest.java:43)
+
+com.packt.tdd.ShoppingTest.testProductRemovalFromCart()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.packt.tdd.ShoppingTest.testProductRemovalFromCart(ShoppingTest.java:52)
+

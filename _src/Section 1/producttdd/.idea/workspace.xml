@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="17c92bfb-0224-4574-8fc7-297f0b719bba" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YA4CoMEjdsma5PL85moGsNmrQd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/resources/data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ShoppingTest.testIfPaymentStatusIsCorrect">
+    <configuration name="Shopping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.packt.tdd.Shopping" />
+      <module name="producttdd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.packt.tdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShoppingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="producttdd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.packt.tdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.packt.tdd" />
+      <option name="MAIN_CLASS_NAME" value="com.packt.tdd.ShoppingTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShoppingTest.testIfPaymentStatusIsCorrect" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="producttdd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.packt.tdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.packt.tdd" />
+      <option name="MAIN_CLASS_NAME" value="com.packt.tdd.ShoppingTest" />
+      <option name="METHOD_NAME" value="testIfPaymentStatusIsCorrect" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShoppingTest.testProductRemovalFromCart" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="producttdd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.packt.tdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.packt.tdd" />
+      <option name="MAIN_CLASS_NAME" value="com.packt.tdd.ShoppingTest" />
+      <option name="METHOD_NAME" value="testProductRemovalFromCart" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ShoppingTest.testIfPaymentStatusIsCorrect" />
+        <item itemvalue="JUnit.ShoppingTest" />
+        <item itemvalue="JUnit.ShoppingTest.testProductRemovalFromCart" />
+        <item itemvalue="Application.Shopping" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17c92bfb-0224-4574-8fc7-297f0b719bba" name="Default Changelist" comment="" />
+      <created>1582371939470</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582371939470</updated>
+      <workItem from="1586982562625" duration="279000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="505" y="-816" key="#com.intellij.ide.util.MemberChooser" timestamp="1582982783210">
+      <screen x="-268" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="505" y="-816" key="#com.intellij.ide.util.MemberChooser/0.0.1440.896/-268.-1080.1920.1080@-268.-1080.1920.1080" timestamp="1582982783210" />
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom" timestamp="1583179992541">
+      <screen x="0" y="0" width="1920" height="1076" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.0.1440.896/-268.-1080.1920.1080@-268.-1080.1920.1080" timestamp="1582983416358" />
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.0.1920.1076@0.0.1920.1076" timestamp="1583179992541" />
+    <state width="1878" height="304" key="GridCell.Tab.0.center" timestamp="1583179992539">
+      <screen x="0" y="0" width="1920" height="1076" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.center/0.0.1440.896/-268.-1080.1920.1080@-268.-1080.1920.1080" timestamp="1582983416356" />
+    <state width="1878" height="304" key="GridCell.Tab.0.center/0.0.1920.1076@0.0.1920.1076" timestamp="1583179992539" />
+    <state width="1878" height="304" key="GridCell.Tab.0.left" timestamp="1583179992538">
+      <screen x="0" y="0" width="1920" height="1076" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.left/0.0.1440.896/-268.-1080.1920.1080@-268.-1080.1920.1080" timestamp="1582983416355" />
+    <state width="1878" height="304" key="GridCell.Tab.0.left/0.0.1920.1076@0.0.1920.1076" timestamp="1583179992538" />
+    <state width="1878" height="304" key="GridCell.Tab.0.right" timestamp="1583179992540">
+      <screen x="0" y="0" width="1920" height="1076" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.right/0.0.1440.896/-268.-1080.1920.1080@-268.-1080.1920.1080" timestamp="1582983416357" />
+    <state width="1878" height="304" key="GridCell.Tab.0.right/0.0.1920.1076@0.0.1920.1076" timestamp="1583179992540" />
+    <state width="1878" height="375" key="GridCell.Tab.1.bottom" timestamp="1582485773364">
+      <screen x="-268" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.1.bottom/0.0.1440.896/-268.-1080.1920.1080@-268.-1080.1920.1080" timestamp="1582485773364" />
+    <state width="1878" height="375" key="GridCell.Tab.1.center" timestamp="1582485773361">
+      <screen x="-268" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.1.center/0.0.1440.896/-268.-1080.1920.1080@-268.-1080.1920.1080" timestamp="1582485773361" />
+    <state width="1878" height="375" key="GridCell.Tab.1.left" timestamp="1582485773360">
+      <screen x="-268" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.1.left/0.0.1440.896/-268.-1080.1920.1080@-268.-1080.1920.1080" timestamp="1582485773360" />
+    <state width="1878" height="375" key="GridCell.Tab.1.right" timestamp="1582485773362">
+      <screen x="-268" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.1.right/0.0.1440.896/-268.-1080.1920.1080@-268.-1080.1920.1080" timestamp="1582485773362" />
+    <state x="469" y="178" key="SettingsEditor" timestamp="1583065539032">
+      <screen x="0" y="0" width="1920" height="1076" />
+    </state>
+    <state x="201" y="-901" key="SettingsEditor/0.0.1440.896/-268.-1080.1920.1080@-268.-1080.1920.1080" timestamp="1582981695415" />
+    <state x="469" y="178" key="SettingsEditor/0.0.1920.1076@0.0.1920.1076" timestamp="1583065539032" />
+    <state x="357" y="-839" width="670" height="676" key="search.everywhere.popup" timestamp="1582982833719">
+      <screen x="-268" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="357" y="-839" width="670" height="676" key="search.everywhere.popup/0.0.1440.896/-268.-1080.1920.1080@-268.-1080.1920.1080" timestamp="1582982833719" />
+  </component>
+</project>

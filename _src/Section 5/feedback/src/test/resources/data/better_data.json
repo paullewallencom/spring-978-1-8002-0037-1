@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "productId": 1,
+    "userId": 1,
+    "status": "POSTED",
+    "version": 1,
+    "message": "This is a great product!"
+  },
+  {
+    "id": "2",
+    "productId": 1,
+    "userId": 2,
+    "status": "PUBLISHED",
+    "version": 1,
+    "message": "Highly recommended!"
+  },
+  {
+    "id": "3",
+    "productId": 2,
+    "userId": 3,
+    "status": "PUBLISHED",
+    "version": 1,
+    "message": "Awesome!"
+  },
+  {
+    "id": "4",
+    "productId": 2,
+    "userId": 1,
+    "status": "POSTED",
+    "version": 1,
+    "message": "You must try!"
+  },
+  {
+    "id": "5",
+    "productId": 2,
+    "userId": 5,
+    "status": "PUBLISHED",
+    "version": 1,
+    "message": "Five stars!"
+  },
+  {
+    "id": "6",
+    "productId": 4,
+    "userId": 7,
+    "status": "PUBLISHED",
+    "version": 1,
+    "message": "Works perfectly!"
+  }
+]

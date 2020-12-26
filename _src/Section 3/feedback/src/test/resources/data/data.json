@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "productId": 1,
+    "userId": 1,
+    "status": "POSTED",
+    "version": 1,
+    "message": "This is a great product!"
+  },
+  {
+    "id": "2",
+    "productId": 1,
+    "userId": 2,
+    "status": "PUBLISHED",
+    "version": 1,
+    "message": "Highly recommended!"
+  },
+  {
+    "id": "3",
+    "productId": 2,
+    "userId": 3,
+    "status": "PUBLISHED",
+    "version": 1,
+    "message": "Awesome!"
+  }
+]
